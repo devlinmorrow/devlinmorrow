@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-love-it-itechart-SUcApSWjPwQMARvcM8">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100" alt="smiling computer with heart above"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/devlin-glasman-0a353b5a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+</div>
