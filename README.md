@@ -12,13 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋 Bail ó Dhia ort 👋 </h2>
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="100"
-         alt="smiling computer with heart above"/>
-</div>
-<h3 align="center">I'm Devlin (he/him)</h3>
-<p align="center">I am a full-stack developer based in Madrid.</p>
+<p align="center">Full-stack developer based in Madrid</p>
 <div id="badges" align="center">
     <a href="https://www.youtube.com/watch?v=F9EgdJNnAeA&t=1s&ab_channel=8thLight%2CInc.">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
