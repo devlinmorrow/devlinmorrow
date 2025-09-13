@@ -24,9 +24,18 @@ Here are some ideas to get you started:
   <p style="margin: 0.4rem 0;">
     <a href="https://www.youtube.com/watch?v=qogkH_cfysY" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e53935; font-weight: 600;">
       <img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat-square" alt="YouTube" style="vertical-align: middle; margin-right: 6px;" />
-      How do you actually add a block to a #blockchain?
+      How do you actually add a block to a blockchain?
     </a>
   </p>
+
+  
+
+  <p style="margin: 0.4rem 0;">
+  <a href="https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1565c0; font-weight: 600;">
+    <img src="https://img.shields.io/badge/-Blog-1565c0?logo=rss&logoColor=white&style=flat-square" alt="Blog" style="vertical-align: middle; margin-right: 6px;" />
+    A History of JavaScript Modules and Bundling, For the Post-ES6 Developer
+  </a>
+</p>
 
 <div style="margin: 1rem 0;">
   <a href="https://www.linkedin.com/in/devlin-glasman-0a353b5a/" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
