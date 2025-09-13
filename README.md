@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </p>
 
   <p style="margin: 0.4rem 0;">
-    <a href="https://www.youtube.com/watch?v=qogkH_cfysY" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e53935; font-weight: 600;">
+    <a href="https://www.youtube.com/watch?v=F9EgdJNnAeA" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #e53935; font-weight: 600;">
       <img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat-square" alt="YouTube" style="vertical-align: middle; margin-right: 6px;" />
       How do you actually add a block to a blockchain?
     </a>
